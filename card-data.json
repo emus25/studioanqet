@@ -1,0 +1,178 @@
+{
+  "version": 2,
+  "exportedAt": "2026-04-28T23:34:02.238Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Studio Anqet",
+      "lname": null,
+      "pronouns": null,
+      "name": null,
+      "title": null,
+      "biz": "",
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "12 Abbots Croft, Roakes Avenue, Chertsey",
+      "city": "",
+      "state": "",
+      "postal": " KT15 2GG",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/JngMLkpG/Untitled-design-2026-04-29T001335-148.png",
+      "shareImg": "https://i.postimg.cc/JngMLkpG/Untitled-design-2026-04-29T001335-148.png",
+      "bookMarkImg": "https://i.postimg.cc/JngMLkpG/Untitled-design-2026-04-29T001335-148.png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#9c9d9a",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#9c9d9a",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#5c827a",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#9c9d9a",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "call",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "+44 7491 762705",
+        "label": "Your Phone Number"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "contact@studioanqet.co.uk",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "whatsApp",
+        "placeholder": "https://wa.me/profileID",
+        "value": "https://wa.me/+447491762705",
+        "label": "Your WhatsApp URL"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://studioanqet.co.uk/",
+        "label": "Your Website URL"
+      },
+      {
+        "name": "location",
+        "placeholder": "https://goo.gl/maps/location",
+        "value": "https://maps.app.goo.gl/Zcc11yvSjuhSB3yx5",
+        "label": "Your Maps Location URL"
+      }
+    ],
+    "secondaryActions": [
+      {
+        "name": "instagram",
+        "placeholder": "https://instagram.com/UserName",
+        "value": "https://www.instagram.com/studioanqet",
+        "color": "#405de6",
+        "label": "Your Instagram URL"
+      },
+      {
+        "name": "linkedin",
+        "placeholder": "https://linkedin.com/in/UserName",
+        "value": "https://www.linkedin.com/company/studioanqet/",
+        "color": "#0077b5",
+        "label": "Your Linkedin URL"
+      },
+      {
+        "name": "facebook",
+        "placeholder": "https://facebook.com/UserName",
+        "value": "https://www.facebook.com/StudioAnqet",
+        "color": "#1877f2",
+        "label": "Your Facebook URL"
+      },
+      {
+        "name": "youtube",
+        "placeholder": "https://youtube.com/ChannelUserName",
+        "value": "https://www.youtube.com/@Studioanqet",
+        "color": "#ff0000",
+        "label": "Your YouTube URL"
+      }
+    ],
+    "featured": [
+      {
+        "title": "",
+        "content": [
+          {
+            "label": "Studio Anqet Brochure",
+            "link": "https://raidarchitectureltd-my.sharepoint.com/personal/nada_raidarchitecture_co_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fnada%5Fraidarchitecture%5Fco%5Fuk%2FDocuments%2FStudio%20Anqet%20Brochure%2FStudio%20Anqet%20Brochure%20%2D%20Jan%202026%2Epdf&parent=%2Fpersonal%2Fnada%5Fraidarchitecture%5Fco%5Fuk%2FDocuments%2FStudio%20Anqet%20Brochure&ga=1",
+            "contentType": "customButton"
+          },
+          {
+            "label": "Review us on Google!",
+            "link": "https://search.google.com/local/writereview?placeid=ChIJ74uFEFx2dkgRygMZLigofUI",
+            "contentType": "customButton"
+          },
+          {
+            "name": "googlelogonewest.png",
+            "title": "googlelogonewest",
+            "artist": null,
+            "album": null,
+            "filesize": null,
+            "type": "image",
+            "contentType": "media",
+            "ext": "png",
+            "mime": "image/png",
+            "info": null,
+            "file": "media/googlelogonewest.png",
+            "coverFile": null,
+            "coverExt": null
+          }
+        ]
+      }
+    ]
+  }
+}
